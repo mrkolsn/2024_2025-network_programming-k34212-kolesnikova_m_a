@@ -116,7 +116,7 @@ ansible-playbook -i inventory.yaml playbook.yaml
 
 Добавление IP-адреса 192.168.0.105/24
 
-![Снимок экрана 2025-01-10 172213](https://github.com/user-attachments/assets/d10f6437-d952-475c-bf90-f3122ce733cb)
+![Снимок экрана 2025-01-10 172835](https://github.com/user-attachments/assets/b939ead4-7244-4afa-9eb4-bbfdb6eba674)
 
 
 ### Добавление серийного номера в NetBox
